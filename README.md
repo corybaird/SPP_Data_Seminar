@@ -10,9 +10,8 @@ Data for public policy seminar series, 2021-2022
 4.	Consider how policymakers can leverage statistical analysis to draw insights about public policy
 
 # Seminar schedule (Tenative)
-
-|R-Sessions               |Format  (See format note)                |Topic                |
-|-------------------------|-----------------------------------------|---------------------|
-|Session 1: September 10th|2 hours (1/hr instruction 1/hr questions)|Using R with R-studio|
-|Session 2: September 17th|2 hours (1/hr instruction 1/hr questions)| Cleaning data       |
-|Session 3: September 24th|2 hours (1/hr instruction 1/hr questions)|Graphing             |                
+|R-Sessions               |Format  (See format note)                |Topic                                                  |
+|-------------------------|-----------------------------------------|-------------------------------------------------------|
+|Session 1: September 10th|2 hours (1/hr instruction 1/hr questions)|Using R with R-studio.  Importing and downloading data.|
+|Session 2: September 17th|2 hours (1/hr instruction 1/hr questions)| Cleaning data. Manipulating data                      |
+|Session 3: September 24th|2 hours (1/hr instruction 1/hr questions)|Graphing. Modelling                                    |      
