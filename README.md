@@ -11,14 +11,14 @@ Data for public policy seminar series, 2021-2022
 
 # Seminar schedule (Tenative)
 
-| | Format\* (See format note)                   | Topic                                                     |
-| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------------- |
-| Session 1: September 10<sup>th</sup>                                                                                    | 2 hours<br>(1/hr instruction 1/hr questions) | · Using R with R-studio
+R-sessions                          |Format\* (See format note)                  |Topic                                                    
+------------------------------------|--------------------------------------------|---------------------------------------------------------
+Session 1: September 10<sup>th</sup>|2 hours<br>(1/hr instruction 1/hr questions)|· Using R with R-studio
 
-· Importing and downloading data |
-| Session 2: September 17<sup>th</sup>                                                                                    | 2 hours<br>(1/hr instruction 1/hr questions) | · Cleaning data
+· Importing and downloading data
+Session 2: September 17<sup>th</sup>|2 hours<br>(1/hr instruction 1/hr questions)|· Cleaning data
 
-· Manipulating data                      |
-| Session 3: September 24<sup>th</sup>                                                                                    | 2 hours<br>(1/hr instruction 1/hr questions) | · Graphing
+· Manipulating data                     
+Session 3: September 24<sup>th</sup>|2 hours<br>(1/hr instruction 1/hr questions)|· Graphing
 
-· Modelling                                   |
+· Modelling                                  
