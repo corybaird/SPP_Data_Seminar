@@ -26,6 +26,9 @@ Data for public policy-- Seminar series, 2021-2022
 
 
 # Format note:
+The sessions will be conducted via zoom.
+
+
 All code can be viewed publicly at this [link](https://github.com/corybaird/SPP_Data_Seminar). This webpage will contain both the code and links to the videos for each session.
 
 In order to get the most out of each session I highly recommend watching the videos and trying the code by yourself BEFORE attending the sessions. 
