@@ -26,9 +26,12 @@ Data for public policy seminar series, 2021-2022
 
 
 # Format note:
-No background in coding or theoretical statistics is necessary. Before each R-session I will upload a video and share the code on this github page.
+All code can be viewed publicly at this [link](https://github.com/corybaird/SPP_Data_Seminar). This webpage will contain both the code and links to the videos for each session.
 
 In order to get the most out of each session I highly recommend watching the videos and trying the code by yourself BEFORE attending the sessions. 
+
+# Prerequisites:
+No background in coding or theoretical statistics is necessary. 
 
 Learning statistical software is very similar to a language, practice makes perfect. 
 
