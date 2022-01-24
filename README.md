@@ -10,7 +10,7 @@ Data for public policy-- Seminar series, 2021-2022
 
 
 # Seminar schedule (Tenative)
-|R-Sessions               |Format  (See format note)                |Topic                                                  |
+|Python-Sessions               |Format  (See format note)                |Topic                                                  |
 |-------------------------|-----------------------------------------|-------------------------------------------------------|
 |Session 1: January 28th|2 hours (1/hr instruction 1/hr questions)|Using Python with colab.  Importing and downloading data.|
 |Session 2: February 4th|2 hours (1/hr instruction 1/hr questions)| Cleaning data. Manipulating data                      |
@@ -18,7 +18,7 @@ Data for public policy-- Seminar series, 2021-2022
 
 
 
-|STATA-Sessions         |Format  (See format note)                |Topic                                                  |
+|R-Sessions         |Format  (See format note)                |Topic                                                  |
 |-----------------------|-----------------------------------------|-------------------------------------------------------|
 |Session 1: February 18th |2 hours (1/hr instruction 1/hr questions)|Using STATA interface.  Importing and downloading data.|
 |Session 2: February 25th|2 hours (1/hr instruction 1/hr questions)|Cleaning data. Manipulating data                       |
