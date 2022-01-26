@@ -20,7 +20,7 @@ Data for public policy-- Seminar series, 2021-2022
 
 |R-Sessions         |Format  (See format note)                |Topic                                                  |
 |-----------------------|-----------------------------------------|-------------------------------------------------------|
-|Session 1: February 18th |2 hours |Using STATA interface.  Importing and downloading data.|
+|Session 1: February 18th |2 hours |Using R-studio.  Importing and downloading data.|
 |Session 2: February 25th|2 hours Cleaning data. Manipulating data                       |
 |Session 3: March 4th|2 hours |Graphing. Modelling                                    |
 
